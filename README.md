@@ -156,7 +156,7 @@ A full-stack portfolio builder currently under development.
 &nbsp;&nbsp;
 
 <a href="https://youtube.com/@vihaanrawat">
-  <img src="https://skillicons.dev/icons?i=youtube" width="42" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="42" alt="YouTube"/>
 </a>
 &nbsp;&nbsp;
 
