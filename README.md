@@ -2,225 +2,64 @@
 
 ### Software Engineer | Engineering the Architecture of Ideas
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vihaanrawat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
+> *“First, solve the problem. Then, write the code.”* — John Johnson
+
+<p align="center">
+  <a href="https://github.com/vihaanrawat">
+    <img src="https://img.shields.io/github/followers/vihaanrawat?label=GitHub&style=flat&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/vihaan-rawat-ab138a25a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/YaoJmh52ii">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode">
+  </a>
+  <a href="https://codechef.com/users/crash_dice_19">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=flat&logo=codechef">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **FolioForge — a full-stack portfolio builder platform using React, Tailwind CSS, Node.js, Express, and MongoDB.**
-- 🌱 I'm currently learning **Next.js, TypeScript, Backend Architecture, and Scalable Web Systems.**
-- 👯 I'm looking to collaborate on **Open-source projects, innovative web applications, and ambitious software projects.**
-- 🤝 I'm looking for help with **System Design, Software Architecture, and scalable backend engineering.**
-- 💬 Ask me about **C++, React, JavaScript, Full-Stack Development, and problem solving.**
-- 📫 How to reach me: **vihaanrawat2007vr@gmail.com**
-- ⚡ Fun fact: **I love exploring new places and trying new things.**
+- 🔭 Building **FolioForge** — a full-stack portfolio builder.
+- 🌱 Learning **Next.js, TypeScript, Backend Architecture & Scalable Systems**.
+- 💻 Interested in **Full-Stack Development, Software Architecture & Problem Solving**.
+- 🤝 Open to **interesting open-source and web development projects**.
+- 📫 **vihaanrawat2007vr@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/vihaanrawat" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/vihaan-rawat-ab138a25a" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://youtube.com/@vihaanrawat" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-</a>
-
-<a href="https://codechef.com/users/crash_dice_19" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="CodeChef" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/YaoJmh52ii" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-
-<a href="https://discord.gg/FDvhZhzhT" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
-
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-### 💻 Languages
-
-<p align="left">
-
-<a href="https://en.cppreference.com/w/c" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" alt="C" width="45" height="45"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/>
-</a>
-
-</p>
-
-### ⚛️ Frontend
-
-<p align="left">
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="45" height="45"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/>
-</a>
-
-<a href="https://redux.js.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="45" height="45"/>
-</a>
-
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="left">
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="45" height="45"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/>
-</a>
-
-</p>
-
-### 🎨 Design
-
-<p align="left">
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45"/>
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-<img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" width="45" height="45"/>
-</a>
-
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="45" height="45"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45"/>
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=vihaanrawat&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-height="180"
-alt="Vihaan's GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihaanrawat&layout=compact&hide_border=true&langs_count=8"
-height="180"
-alt="Top Languages"
-/>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nextjs,redux,tailwind,nodejs,express,mongodb,git,github,postman,figma,ps" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vihaanrawat&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihaanrawat&layout=compact&hide_border=true&langs_count=8" />
+</p>
 
-<img
-src="https://streak-stats.demolab.com?user=vihaanrawat&hide_border=true"
-alt="GitHub Contribution Streak"
-/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vihaanrawat&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contributions
 
 <p align="center">
-
-<a href="https://github.com/vihaanrawat">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=vihaanrawat&hide_border=true&area=true"
-alt="GitHub Contribution Activity Graph"
-/>
-
-</a>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=vihaanrawat&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7"
-alt="GitHub Profile Trophies"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vihaanrawat&hide_border=true&area=true" />
 </p>
 
 ---
@@ -229,46 +68,22 @@ alt="GitHub Profile Trophies"
 
 ### FolioForge
 
-> A full-stack platform for creating, customizing, and publishing personal portfolio websites.
+**A full-stack platform for creating, customizing and publishing portfolio websites.**
 
-**Tech Stack**
-
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
-
-**Roadmap**
-
-`Authentication` → `REST APIs` → `Portfolio Editor` → `Templates` → `Publishing` → `Redis` → `Docker`
+`React` `Tailwind` `Node.js` `Express` `MongoDB`
 
 ---
 
-## 📌 Featured Projects
-
-### 🚀 FolioForge
-
-**Full-stack portfolio builder platform**
-
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
-
-> Create, customize, and publish professional portfolio websites through a dynamic full-stack platform.
-
----
+## 📌 Projects
 
 ### ✅ iTask
+A modern task management application built with React, Tailwind CSS and LocalStorage.
 
-**Modern task management application**
-
-`React` `JavaScript` `Tailwind CSS` `LocalStorage`
-
-> A responsive task management application with task creation, editing, deletion, filtering, and persistent local storage.
-
----
-
-## 📫 Contact
-
-**Email:** `vihaanrawat2007vr@gmail.com`
+### 🚀 FolioForge
+A full-stack portfolio builder currently under development.
 
 ---
 
 <p align="center">
-  <i>Building. Learning. Iterating.</i>
+  <i>Building. Learning. Iterating.</i> 🚀
 </p>
