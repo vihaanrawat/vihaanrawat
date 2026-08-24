@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vihaan Rawat
 
 <p>
-  <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Boy coding on laptop">
+  <img align="right" width="280" src="./assets/coding-boy.png" alt="Boy coding on laptop">
 </p>
 
 ### Software Engineer | Engineering the Architecture of Ideas
@@ -101,7 +101,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="170" alt="Coding animation">
+<img src="./assets/coding-boy.png" width="170" alt="Developer coding">
 
 </td>
 </tr>
@@ -170,11 +170,11 @@ A full-stack portfolio builder currently under development.
 
 <p align="center">
 
-## 💭
+# 💭
 
-### **"Talk is cheap. Show me the code."**
+## **"Talk is cheap. Show me the code."**
 
-*— Linus Torvalds*
+### — Linus Torvalds
 
 </p>
 
