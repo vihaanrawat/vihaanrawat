@@ -14,12 +14,15 @@
 <a href="https://github.com/vihaanrawat">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/vihaan-rawat-ab138a25a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://leetcode.com/YaoJmh52ii">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
 </a>
+
 <a href="https://codechef.com/users/crash_dice_19">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
 </a>
@@ -146,22 +149,22 @@ A full-stack portfolio builder currently under development.
 <p align="center">
 
 <a href="https://github.com/vihaanrawat">
-  <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/vihaan-rawat-ab138a25a/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://youtube.com/@vihaanrawat">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="42" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://discord.gg/FDvhZhzhT">
-  <img src="https://skillicons.dev/icons?i=discord" width="42" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </p>
