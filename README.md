@@ -31,7 +31,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+ideas+into+software.;Exploring+modern+web+technologies.;Learning.+Building.+Iterating.;Turning+curiosity+into+code." alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+ideas+into+software.;Exploring+modern+web+technologies.;Learning.+Building.+Iterating.;Turning+curiosity+into+code." alt="Typing Animation">
 
 ---
 
@@ -67,17 +67,19 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=vihaanrawat&theme=github-dark&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=vihaanrawat&theme=github-dark&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+<a href="https://github.com/vihaanrawat">
+  <img src="https://img.shields.io/github/commit-activity/y/vihaanrawat?style=for-the-badge&label=YEARLY%20COMMITS" alt="Yearly Commits">
+</a>
+
+<a href="https://github.com/vihaanrawat">
+  <img src="https://img.shields.io/github/last-commit/vihaanrawat/vihaanrawat?style=for-the-badge&label=LAST%20COMMIT" alt="Last Commit">
+</a>
+
+<a href="https://github.com/vihaanrawat">
+  <img src="https://img.shields.io/github/repos/vihaanrawat?style=for-the-badge&label=PUBLIC%20REPOS" alt="Public Repositories">
+</a>
+
 </p>
 
 ---
