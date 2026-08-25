@@ -68,8 +68,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vihaanrawat&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
+    src="https://streak-stats.demolab.com?user=vihaanrawat&theme=github-dark&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
