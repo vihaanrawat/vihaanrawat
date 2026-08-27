@@ -64,23 +64,6 @@
 
 ---
 
-## ⚡ Developer Snapshot
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,mongodb" />
-
-<br><br>
-
-<strong>Building full-stack applications • Solving problems • Exploring system design</strong>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Turning+ideas+into+software.;Learning+by+building.;Breaking+things.+Fixing+things.;Always+building+something+new." alt="Developer Typing Animation">
-
-</p>
-
----
 
 ## 🚀 Currently Building
 
