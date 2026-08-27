@@ -48,19 +48,25 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
+
+### 💻 Languages & Web
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
 
 <br><br>
 
+### ⚛️ Frameworks & Backend
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,nodejs,express,mongodb" />
 
 <br><br>
 
+### 🧰 Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,ps,vscode" />
 
-</p>
+</div>
 
 ---
 
