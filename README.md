@@ -64,12 +64,18 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vihaanrawat&theme=github-dark&hide_border=true"
-    alt="GitHub Activity Graph"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vihaanrawat&show_icons=true&theme=github_dark&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihaanrawat&layout=compact&theme=github_dark&hide_border=true"
+    height="180"
+    alt="Top Languages"
   />
 </p>
 
