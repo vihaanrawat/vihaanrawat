@@ -64,19 +64,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Developer Snapshot
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vihaanrawat&show_icons=true&theme=github_dark&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihaanrawat&layout=compact&theme=github_dark&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,mongodb" />
+
+<br><br>
+
+<strong>Building full-stack applications • Solving problems • Exploring system design</strong>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=700&lines=Turning+ideas+into+software.;Learning+by+building.;Breaking+things.+Fixing+things.;Always+building+something+new." alt="Developer Typing Animation">
+
 </p>
 
 ---
