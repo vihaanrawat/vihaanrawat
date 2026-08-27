@@ -37,8 +37,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **FolioForge** — a full-stack portfolio builder platform.
-- 🌱 Learning **Next.js, TypeScript, Backend Architecture & Scalable Systems**.
+- 🔭 Currently building **Real-Time Chat App** — a full-stack messaging application.
+- 🌱 Learning **MERN Stack, Backend Development, Real-Time Systems & Scalable Architecture**.
 - 💻 Interested in **Full-Stack Development, Software Architecture & Problem Solving**.
 - 👯 Open to collaborating on **interesting open-source projects**.
 - 📫 **vihaanrawat2007vr@gmail.com**
@@ -70,24 +70,23 @@
 
 ---
 
-
 ## 🚀 Currently Building
 
 <table>
 <tr>
 <td width="65%">
 
-### 🏗️ FolioForge
+### 💬 Real-Time Chat App
 
-**A full-stack platform for creating, customizing and publishing personal portfolio websites.**
+**A full-stack real-time messaging application built with the MERN stack.**
 
 **Tech Stack**
 
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+`React` `Node.js` `Express.js` `MongoDB` `Socket.IO`
 
 **Roadmap**
 
-`Authentication` → `REST APIs` → `Editor` → `Templates` → `Publishing` → `Redis` → `Docker`
+`Authentication` → `REST APIs` → `Messaging` → `Socket.IO` → `Online Status` → `Typing Indicators` → `Seen Messages` → `Deployment`
 
 </td>
 
@@ -119,13 +118,13 @@ A modern task management application built with React.
 
 <td width="50%">
 
-### 🚀 FolioForge
+### 💬 Real-Time Chat App
 
-A full-stack portfolio builder currently under development.
+A full-stack real-time messaging application currently under development.
 
 **Stack**
 
-`React` • `Node.js` • `Express` • `MongoDB`
+`React` • `Node.js` • `Express` • `MongoDB` • `Socket.IO`
 
 </td>
 </tr>
