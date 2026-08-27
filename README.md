@@ -92,7 +92,7 @@
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="170" alt="Coding animation">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="170" alt="Chat animation">
 
 </td>
 </tr>
