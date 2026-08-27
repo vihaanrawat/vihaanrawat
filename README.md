@@ -112,7 +112,7 @@ A modern task management application built with React.
 
 **Features**
 
-`CRUD` • `Filtering` • `Editing` • `LocalStorage`
+`CRUD` • `Filtering` • `Editing`
 
 </td>
 
