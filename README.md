@@ -7,7 +7,6 @@
 ### Software Engineer | Engineering the Architecture of Ideas
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vihaanrawat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/vihaanrawat?label=Followers&style=flat&logo=github" alt="GitHub Followers">
 </p>
 
