@@ -7,7 +7,6 @@
 ### Software Engineer | Engineering the Architecture of Ideas
 
 <p>
-  <img src="https://img.shields.io/badge/💻_Building-Real--Time_Chat_App-0e75b6?style=flat" />
   <img src="https://img.shields.io/badge/🌱_Learning-Full--Stack_Development-2ea44f?style=flat" />
   <img src="https://img.shields.io/badge/⚡_Focus-Software_Architecture-6f42c1?style=flat" />
 </p>
