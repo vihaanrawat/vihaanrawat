@@ -25,8 +25,7 @@ I enjoy understanding how applications communicate, how data flows through syste
 
 - 🎓 B.Tech Computer Science student at MAIT, graduating in 2029.
 - 📊 CGPA: **9.09/10**
-- 🚀 Building full-stack applications with the MERN stack.
-- 💬 Developing **Relay**, a real-time messaging application.
+-  Building full-stack applications with the MERN stack
 - 🧠 Practising DSA in C++ on LeetCode.
 - 🌱 Currently exploring Next.js and TypeScript.
 
