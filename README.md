@@ -15,10 +15,6 @@ I enjoy understanding how applications communicate, how data flows through syste
   <a href="mailto:vihaanrawat2007vr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="left">
-  <img src="https://gifdb.com/images/branded/high/minimalist-star-wars-jedi-and-boba-fett-fighting-cpwjwee6u9ax7ad5.gif" width="220" alt="Star Wars duel"/>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
