@@ -36,7 +36,7 @@
 
 <!-- CUSTOM SLIDING-UP LIGHTSABER TELEMETRY CARD -->
 <div align="center">
-  <img src="./assets/lightsaber-stats.svg" width="96%" alt="Lightsaber Sliding Telemetry" />
+  <img src="./assets/stats.svg" width="96%" alt="Lightsaber Sliding Telemetry" />
 </div>
 
 <br/>
