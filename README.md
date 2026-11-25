@@ -1,29 +1,21 @@
-<!-- HYPERSPACE / DARTH VADER GIF BANNER -->
+<!-- AMBIENT STAR WARS SCENERY HERO BANNER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l1KuhBCqxOoJyr0m4/giphy.gif" width="100%" height="240" style="object-fit: cover; border-radius: 12px;" alt="Darth Vader Ignition" />
+  <img src="./assets/hero-banner.png" width="100%" alt="Imperial Orbit Scenery" />
 </div>
 
-<!-- ANIMATED SITH TYPING HEADER -->
+<!-- ANIMATED SITH TYPING HEADER (FITS CLEANLY WITHOUT CLIPPING) -->
 <div align="center">
   <a href="https://github.com/vihaanrawat">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2800&pause=900&color=FF1E27&center=true&vCenter=true&width=820&height=65&lines=VIHAAN+RAWAT+%7C%7C+FULL-STACK+SYSTEMS+ARCHITECT;ENGINEERING+THE+ARCHITECTURE+OF+IDEAS;B.TECH+CSE+%40+MAIT+NEW+DELHI+%7C%7C+OPEN+SOURCE+BUILDER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=19&duration=2800&pause=900&color=FF1E27&center=true&vCenter=true&width=740&height=55&lines=VIHAAN+RAWAT+%7C%7C+FULL-STACK+SYSTEMS+ARCHITECT;ENGINEERING+THE+ARCHITECTURE+OF+IDEAS;B.TECH+CSE+%40+MAIT+NEW+DELHI+%7C%7C+OPEN+SOURCE+BUILDER" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- HOLONET COMMS BADGES -->
 <p align="center">
-  <a href="https://github.com/vihaanrawat">
-    <img src="https://img.shields.io/badge/GitHub-090A0F?style=for-the-badge&logo=github&logoColor=FF1E27" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vihaan-rawat/">
-    <img src="https://img.shields.io/badge/LinkedIn-090A0F?style=for-the-badge&logo=linkedin&logoColor=FF1E27" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/vr-star/">
-    <img src="https://img.shields.io/badge/LeetCode-090A0F?style=for-the-badge&logo=leetcode&logoColor=FF1E27" alt="LeetCode"/>
-  </a>
-  <a href="mailto:vihaanrawat2007vr@gmail.com">
-    <img src="https://img.shields.io/badge/Holomail-090A0F?style=for-the-badge&logo=gmail&logoColor=FF1E27" alt="Email"/>
-  </a>
+  <a href="https://github.com/vihaanrawat"><img src="https://img.shields.io/badge/GitHub-090A0F?style=for-the-badge&logo=github&logoColor=FF1E27" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/vihaan-rawat/"><img src="https://img.shields.io/badge/LinkedIn-090A0F?style=for-the-badge&logo=linkedin&logoColor=FF1E27" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/vr-star/"><img src="https://img.shields.io/badge/LeetCode-090A0F?style=for-the-badge&logo=leetcode&logoColor=FF1E27" alt="LeetCode"/></a>
+  <a href="mailto:vihaanrawat2007vr@gmail.com"><img src="https://img.shields.io/badge/Holomail-090A0F?style=for-the-badge&logo=gmail&logoColor=FF1E27" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=vihaanrawat&label=HOLONET+VIEWS&color=D90429&style=for-the-badge" alt="Profile Views"/>
 </p>
 
@@ -86,7 +78,7 @@
       <a href="https://github.com/vihaanrawat/burrow-browser-extension"><strong>⚡ Inspect Release v1.0.0 ↗</strong></a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="90%" style="border-radius: 10px;" alt="Death Star Hologram" />
+      <img src="./assets/death-star-scenery.png" width="95%" alt="Ambient Death Star Hologram" />
       <br/>
       <sub><em>"Peace is a lie, there is only clean architecture."</em></sub>
     </td>
