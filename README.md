@@ -6,7 +6,7 @@
 <!-- ANIMATED SITH TYPING HEADER -->
 <div align="center">
   <a href="https://github.com/vihaanrawat">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2800&pause=900&color=FF1E27&center=true&vCenter=true&width=820&height=65&lines=VIHAAN+RAWAT+%7C%7C+FULL-STACK+SYSTEMS+ARCHITECT;ENGINEERING+THE+ARCHITECTURE+OF+IDEAS;B.TECH+CSE+%40+MAIT+NEW+DELHI+%7C%7C+350%2B+LEETCODE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2800&pause=900&color=FF1E27&center=true&vCenter=true&width=820&height=65&lines=VIHAAN+RAWAT+%7C%7C+FULL-STACK+SYSTEMS+ARCHITECT;ENGINEERING+THE+ARCHITECTURE+OF+IDEAS;B.TECH+CSE+%40+MAIT+NEW+DELHI+%7C%7C+OPEN+SOURCE+BUILDER" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-090A0F?style=for-the-badge&logo=linkedin&logoColor=FF1E27" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/vr-star/">
-    <img src="https://img.shields.io/badge/LeetCode_(vr--star)-090A0F?style=for-the-badge&logo=leetcode&logoColor=FF1E27" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-090A0F?style=for-the-badge&logo=leetcode&logoColor=FF1E27" alt="LeetCode"/>
   </a>
   <a href="mailto:vihaanrawat2007vr@gmail.com">
     <img src="https://img.shields.io/badge/Holomail-090A0F?style=for-the-badge&logo=gmail&logoColor=FF1E27" alt="Email"/>
