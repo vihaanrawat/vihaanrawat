@@ -40,8 +40,3 @@
 </table>
 
 <br />
-
-<!-- SLIGHT CONTRIBUTION SNAKE AND FOOTER -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vihaanrawat&bg_color=090A0F&color=EF4444&line=FF1E27&point=FFFFFF&area=true&area_color=590D22&border_color=1F2937" width="100%" alt="Hyperspace Graph" />
-</div>
