@@ -9,7 +9,6 @@
 
 <!-- SOCIAL DOCK -->
 <p align="center">
-  <a href="https://github.com/vihaanrawat"><img src="https://img.shields.io/badge/GitHub-090A0F?style=for-the-badge&logo=github&logoColor=EF4444" /></a>
   <a href="https://www.linkedin.com/in/vihaan-rawat/"><img src="https://img.shields.io/badge/LinkedIn-090A0F?style=for-the-badge&logo=linkedin&logoColor=EF4444" /></a>
   <a href="https://leetcode.com/u/vr-star/"><img src="https://img.shields.io/badge/LeetCode-090A0F?style=for-the-badge&logo=leetcode&logoColor=EF4444" /></a>
   <a href="mailto:vihaanrawat2007vr@gmail.com"><img src="https://img.shields.io/badge/Email-090A0F?style=for-the-badge&logo=gmail&logoColor=EF4444" /></a>
