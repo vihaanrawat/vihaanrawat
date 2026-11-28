@@ -39,3 +39,7 @@
 </table>
 
 <br />
+
+<div align="center">
+  <img src="./assets/footer-hud.svg" width="100%" alt="Star Destroyer Footer" />
+</div>
